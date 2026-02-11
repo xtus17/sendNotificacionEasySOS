@@ -1,0 +1,21 @@
+{
+  "name": "easyalert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "xaler",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^4.0.1",
+    "expo-notifications": "~0.18.1",
+    "expo-server-sdk": "^5.0.0",
+    "express": "^5.2.1",
+    "firebase-admin": "^13.5.0",
+    "multer": "^2.0.2"
+  }
+}

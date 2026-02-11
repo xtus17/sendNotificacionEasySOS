@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "352254362871",
+    "firebase_url": "https://xalereasysos-default-rtdb.firebaseio.com",
+    "project_id": "xalereasysos",
+    "storage_bucket": "xalereasysos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352254362871:android:33e79a4d50e1866d09fff2",
+        "android_client_info": {
+          "package_name": "com.xaler.easysos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaMcJfpQ8XNtdC9nmTS6FihXpiSNuK6ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
